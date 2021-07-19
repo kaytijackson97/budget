@@ -15,8 +15,12 @@
     {
       "id": 4,
       "description": "Power Bill"
+    },
+    {
+      "id": "759d7105-c8b2-4138-9d5f-5af460469da4",
+      "description": "new thing"
     }
-  ], 
+  ],
   "values": [
     {
       "id": 1,
@@ -37,6 +41,11 @@
       "id": 4,
       "value": 50,
       "isExpense": true
+    },
+    {
+      "id": "759d7105-c8b2-4138-9d5f-5af460469da4",
+      "isExpense": false,
+      "value": "100"
     }
   ]
 }
